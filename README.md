@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋 -->
+I like neural nets
 <!--
 **themid6t/themid6t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
